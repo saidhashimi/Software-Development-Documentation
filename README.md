@@ -6,4 +6,43 @@ In software engineering, technical documentation refers to all written documents
 The documentation is divided into five chapters, each of which explains how to create technical documentation for your software project.
 
 ## Chapter 1 - Introduction
-Indicate the aim of the project proposal paper, as well as a full description of the system's background. 
+ - Introduction
+ - Objectives
+ - Problem Statement
+ - Assumptions & Constraints
+ - Project Scope (what and what not to consider)
+ 
+ ## Chapter 2 - Requirements Analysis
+ - Literature Review / Existing system study
+ - Stakeholders list
+ - Requirement Elicitation
+      - Functional Requirements
+      - Non-functional Requirements
+      - Requirement traceability matric
+ - Use case descriptions
+ - Use case design
+ - Software develoepment life cycle model
+ 
+ ## Chapter 3 - System Design
+ - Work Breakdown Structure
+ - Activity diagram
+ - Sequence diagram
+ - Software Architecture
+ - Class Diagram
+ - Database diagram
+ - Network diagram
+ - Collaboration diagram
+ 
+ 
+ ## Chapter 4 - System Testing
+ - Test cases
+ - Unit / Integration / Acceptance testing
+
+
+## Chapter 5 - Conclusion
+  - Problem faced and lessons learned
+  - Project Summary
+  - Future work
+
+
+
